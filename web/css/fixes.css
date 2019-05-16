@@ -1,0 +1,21 @@
+
+.file-preview-image {
+    height: auto !important;
+    max-height: 160px;
+}
+
+.file-preview-frame {
+    height: auto !important;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+#header .top .left .menu {
+    background: rgba(0, 0, 0, 0) url("/images/menu.svg") repeat scroll 0 0;
+}

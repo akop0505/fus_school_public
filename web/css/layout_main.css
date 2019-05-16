@@ -1,0 +1,52 @@
+.modal .content{
+    background: #fd5e5e !important;
+    background-color: #fd5e5e !important;
+    border: 40px solid #fd5e5e;
+}
+
+.modal .subscribe_mailchimp{
+    padding: 62.5% 0 0 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    border: 3px solid white;
+}
+
+.modal .subscribe_mailchimp .title {
+    position: absolute;
+    right: 5%;
+    left: 5%;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    font-size: 28px;
+}
+.modal .subscribe_mailchimp .title:nth-child(1){
+    top: 15%;
+}
+.modal .subscribe_mailchimp .title:nth-child(2){
+    top:30%;
+}
+.modal .subscribe_mailchimp .title:nth-child(3){
+    top: 50%;
+}
+.modal .subscribe_mailchimp .modal-body {
+    position: absolute;
+    top: 70%;
+    right: 7%;
+    left: 7%;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.modal .subscribe_mailchimp .click_here {
+    color: #363636;
+}
+.modal .subscribe_mailchimp .click_here:hover {
+    color: #363636;
+}
+.modal .subscribe_mailchimp .close {
+    color: white;
+}

@@ -1,0 +1,18 @@
+#avatarModal .select2-selection {
+    display: none!important;
+}
+
+.file-footer-caption {
+    display: none;
+}
+
+.file-upload-indicator {
+    display: none;
+}
+
+#select-avatar {
+    background-color: #30AABC!important;
+}
+.field-user-hasphoto .file-thumbnail-footer{
+    display: none;
+}
